@@ -12,7 +12,7 @@ Para que la aplicación se despliegue en el cluster de OpenShift, se necesita de
 
 1. Asegurese de encontrarse en la cuenta en la cual va a desplegar la aplicación, posteriormente, ingrese a **Resource list** y posteriormente a **Containers**, debe tener **activa** la instancia de openshift
 
-<img width="800" src="Img/IBM cloud.png">
+<div align="center"><img width="800" src="Img/IBM cloud.png"></div>
 <br/>
 
 2. Ingrese a la instancia de openshift y de click en **OpenShift web console**
