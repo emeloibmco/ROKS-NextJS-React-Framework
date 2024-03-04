@@ -86,7 +86,7 @@ Para que la aplicación se despliegue en el cluster de OpenShift, se necesita de
 <div align="center"><img width="800" src="Img/Deployment.jpg"></div>
 <br/>
 
-Aplicación NextJs desplegada: 
+-Aplicación NextJs desplegada: 
 
 <div align="center"><img width="800" src="Img/Aplicación.jpg"></div>
 <br/>
