@@ -80,7 +80,7 @@ Para que la aplicación se despliegue en el cluster de OpenShift, se necesita de
 <div align="center"><img width="800" src="Img/Build.jpg"></div>
 <br/>
 
-10. Cuando el proceso de build termine, despliegue la aplicación de la siguiente manera: 
+10. Cuando el proceso de build termine, el pod lo marcara y podra desplegar la aplicación en el boton de la parte superior derecha: 
 
 
 <div align="center"><img width="800" src="Img/Deployment.jpg"></div>
