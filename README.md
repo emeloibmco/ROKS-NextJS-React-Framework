@@ -53,8 +53,48 @@ Para que la aplicación se despliegue en el cluster de OpenShift, se necesita de
 (ejemplo dockerfile)
 
 
-<div align="center"><img width="800" src="Img/Edit-Import.jpg"></div>
+<div align="center"><img width="800" src="Img/Import-Strategy.jpg"></div>
 <br/>
+
+6. En opciones avanzadas, cambie el puerto a 3000.
+
+
+<div align="center"><img width="800" src="Img/port.jpg"></div>
+<br/>
+
+7. Encima del boton create, seleccione la opción de Scaling, en caso de querer cambiarla. 
+
+
+<div align="center"><img width="800" src="Img/Scaling.jpg"></div>
+<br/>
+
+8. Seleccione la cantidad de replicas que quiere de su aplicación.
+
+
+<div align="center"><img width="800" src="Img/Scaling-Configuration.jpg"></div>
+<br/>
+
+9. Presione el boton Create y empezara el proceso de build del pod.
+
+
+<div align="center"><img width="800" src="Img/Build.jpg"></div>
+<br/>
+
+10. Cuando el proceso de build termine, despliegue la aplicación de la siguiente manera: 
+
+
+<div align="center"><img width="800" src="Img/Deployment.jpg"></div>
+<br/>
+
+Aplicación NextJs desplegada: 
+
+<div align="center"><img width="800" src="Img/Aplicación.jpg"></div>
+<br/>
+
+
+
+
+
 
 
 
