@@ -1,9 +1,11 @@
 # ROKS-NextJS-React-Framework
 Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo de una aplicación basada en la librería NextJS de javascript y su posterior despliegue en un Cluster de OpenShift que se encuentra alojado en IBM Cloud.
 <br/>
-## Indice
+## Contenido
 1. [Pre-requisitos](#pre-requisitos)
 2. [Despliegue la consola web de OpenShift desde IBM Cloud](#despliegue_la_consola_web_de_openshift_desde_ibm_cloud)
+3. [Despliegue aplicación de NextJs en OpenShift](#despliegue_aplicacion_de_nextjs_en_openshift)
+
 <br/>
 
 ## Pre-requisitos
