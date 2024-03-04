@@ -6,7 +6,7 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 
 ## Pre-requisitos
 <br/>
-Para que la aplicación se despliegue en el cluster de OpenShift, se necesita de un archivo de configuración, siendo compatibles dockerfile, yaml y devfile. Un ejemplo de archivo dockerfile para NextJS se encuentra en el siguiente repositorio: https://github.com/davidravelo1/Pokemon-Ecommerce-.git.
+Para que la aplicación se despliegue en el cluster de OpenShift, se necesita de un archivo de configuración, siendo compatibles dockerfile, yaml y devfile. Un ejemplo de archivo dockerfile para NextJS se encuentra en el siguiente repositorio: https://github.com/davidravelo1/Pokemon-Ecommerce-.git
 
 ## Despliegue la consola web de OpenShift desde IBM Cloud  
 
@@ -31,7 +31,7 @@ Para que la aplicación se despliegue en el cluster de OpenShift, se necesita de
 <br/>
 
 
-2. En el proyecto creado, ingrese a la pestaña +Add y seleccione la opción de importar desde repositorio de GitHub.
+2. En el proyecto creado, ingrese a la pestaña +Add y seleccione la opción de importar desde repositorio de GitHub. Puede usar este de ejemplo: https://github.com/davidravelo1/Pokemon-Ecommerce-.git
 
 <div align="center"><img width="800" src="Img/Add-Proyect.jpg"></div>
 <br/>
@@ -86,7 +86,7 @@ Para que la aplicación se despliegue en el cluster de OpenShift, se necesita de
 <div align="center"><img width="800" src="Img/Deployment.jpg"></div>
 <br/>
 
-Aplicación NextJs desplegada: 
+**Aplicación NextJs desplegada:** 
 
 <div align="center"><img width="800" src="Img/Aplicación.png"></div>
 <br/>
