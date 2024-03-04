@@ -10,6 +10,7 @@ Para que la aplicación se despliegue en el cluster de OpenShift, se necesita de
 
 ## Despliegue la consola web de OpenShift desde IBM Cloud  
 
+
 1. Asegurese de encontrarse en la cuenta en la cual va a desplegar la aplicación, posteriormente, ingrese a **Resource list** y posteriormente a **Containers**, debe tener **activa** la instancia de openshift.
 
 <div align="center"><img width="800" src="Img/IBM cloud.png"></div>
@@ -18,29 +19,44 @@ Para que la aplicación se despliegue en el cluster de OpenShift, se necesita de
 2. Ingrese a la instancia de openshift y de click en **OpenShift web console**.
 
 <div align="center"><img width="800" src="Img/ibmcloud2.png"></div>
+<br/>
+
 
 ## Despliegue aplicación de NextJs en OpenShift
 
-<br/>
 
 1. Dentro de la instancia, cambie de administrador a developer. Posteriormente, en proyect, cree un nuevo proyecto.
 
 <div align="center"><img width="800" src="Img/Create-Proyect.jpg"></div>
+<br/>
 
-42 En el proyecto creado, ingrese a la pestaña +Add y seleccione la opción de importar desde repositorio de GitHub.
+
+2. En el proyecto creado, ingrese a la pestaña +Add y seleccione la opción de importar desde repositorio de GitHub.
 
 <div align="center"><img width="800" src="Img/Add-Proyect.jpg"></div>
+<br/>
 
 
 3. Ingrese el link del repositorio de la aplicación en GitHub.
 
 
 <div align="center"><img width="800" src="Img/Import-from-GitHub.jpg"></div>
+<br/>
 
-4. Seleccione la opción de editar la estrategia de importación
+4. Seleccione la opción de editar la estrategia de importación.
 
 
 <div align="center"><img width="800" src="Img/Edit-Import.jpg"></div>
+<br/>
+
+5. Cambie la estrategia a la que posea, escriba la ruta del archivo junto con el nombre.
+(ejemplo dockerfile)
+
+
+<div align="center"><img width="800" src="Img/Edit-Import.jpg"></div>
+<br/>
+
+
 
 
 
