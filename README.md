@@ -17,5 +17,7 @@ Para que la aplicación se despliegue en el cluster de OpenShift, se necesita de
 
 2. Ingrese a la instancia de openshift y de click en **OpenShift web console**
 
+<div align="center"><img width="800" src="Img/IBM cloud2.png"></div>
+
 <br/>
 
