@@ -3,7 +3,7 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 <br/>
 ## Indice
 1. [Pre-requisitos](#pre-requisitos)
-2. [Despliegue la consola web de OpenShift desde IBM Cloud] (#despliegue_la_consola_web_de_openshift_desde_ibm__cloud)
+2. [Despliegue la consola web de OpenShift desde IBM Cloud](#despliegue_la_consola_web_de_openshift_desde_ibm_cloud)
 <br/>
 
 ## Pre-requisitos
